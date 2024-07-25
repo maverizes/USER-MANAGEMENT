@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akhmad's Portfolio</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header>
+        <h1>Users</h1>
+    </header>
+    <main>
+        <button class="btn" id="showAddUserModal">Add New User</button>
+        <button class="btn" id="showUpdateUserModal">Update User</button>
+        <button class="btn" id="showDeleteUserModal">Delete User</button>
+        
+        <section>
+            <h2>Users</h2>
+            <div id="userList"></div>
+        </section>
+
+        <div class="modal" id="addUserModal">
+            <div class="modal-content">
+                <span class="close" id="closeAddUserModal">&times;</span>
+                <h2>Add New User</h2>
+                <form id="addUserForm">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" required>
+                    <label for="phone">Phone:</label>
+                    <input type="text" id="phone" required>
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" required>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" required>
+                    <label for="user_image">User Image URL:</label>
+                    <input type="text" id="user_image">
+                    <button type="submit">Add User</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="modal" id="updateUserModal">
+            <div class="modal-content">
+                <span class="close" id="closeUpdateUserModal">&times;</span>
+                <h2>Update User</h2>
+                <form id="updateUserForm">
+                    <label for="updateId">User ID:</label>
+                    <input type="number" id="updateId" required>
+                    <label for="updateName">Name:</label>
+                    <input type="text" id="updateName">
+                    <label for="updatePhone">Phone:</label>
+                    <input type="text" id="updatePhone">
+                    <label for="updateUsername">Username:</label>
+                    <input type="text" id="updateUsername">
+                    <label for="updatePassword">Password:</label>
+                    <input type="password" id="updatePassword">
+                    <label for="updateUser_image">User Image URL:</label>
+                    <input type="text" id="updateUser_image">
+                    <button type="submit">Update User</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="modal" id="deleteUserModal">
+            <div class="modal-content">
+                <span class="close" id="closeDeleteUserModal">&times;</span>
+                <h2>Delete User</h2>
+                <form id="deleteUserForm">
+                    <label for="deleteId">User ID:</label>
+                    <input type="number" id="deleteId" required>
+                    <button type="submit">Delete User</button>
+                </form>
+            </div>
+        </div>
+    </main>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>

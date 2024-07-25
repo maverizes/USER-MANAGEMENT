@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Bethany",
+    "phone": "+55 119 236 9372",
+    "password": "vI4&bX(+Re",
+    "username": "bbretelle0",
+    "user_image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Randolf",
+    "phone": "+420 228 855 3912",
+    "password": "wP1$JMU8h",
+    "username": "rannakin1",
+    "user_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?cs=srgb&dl=pexels-simon-robben-55958-614810.jpg&fm=jpg"
+  },
+  {
+    "id": 3,
+    "name": "Melessa",
+    "phone": "+1 441 604 0093",
+    "password": "dQ6{a>9`9Fe&*",
+    "username": "mconway2",
+    "user_image": "https://media.istockphoto.com/id/997461858/photo/attractive-young-man-in-blue-t-shirt-pointing-up-with-his-finger-isolated-on-gray-background.jpg?s=612x612&w=0&k=20&c=70pkYuhz65EqNOB9qI5JSDXNbQUwGLxKTCgsSWoy4kM="
+  },
+  {
+    "id": 4,
+    "name": "Padraic",
+    "phone": "+57 590 565 0273",
+    "password": "iT5+fV(\"\\PHs#",
+    "username": "pswyersexey3",
+    "user_image": "https://t4.ftcdn.net/jpg/05/93/87/19/360_F_593871913_Aa1XjS6xM9eEZPP40I4DxwbHINlgG516.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Beverlie",
+    "phone": "+52 231 486 7872",
+    "password": "vI6.js1bJ+W.",
+    "username": "bpeltz4",
+    "user_image": ""
+  },
+  {
+    "id": 6,
+    "name": "Glen",
+    "phone": "+7 926 116 0256",
+    "password": "fP9>GM9@Cs",
+    "username": "gemnoney5",
+    "user_image": ""
+  },
+  {
+    "id": 7,
+    "name": "Marley",
+    "phone": "+86 465 855 3803",
+    "password": "cU5%{<QR3YF\"",
+    "username": "mgoldston6",
+    "user_image": ""
+  },
+  {
+    "id": 8,
+    "name": "Jaynell",
+    "phone": "+372 923 722 8008",
+    "password": "aE0>Ofe|p",
+    "username": "jtodaro7",
+    "user_image": ""
+  },
+  {
+    "id": 9,
+    "name": "Athena",
+    "phone": "+55 188 261 5537",
+    "password": "sH4$4fC,DI\",$4U",
+    "username": "ajackways8",
+    "user_image": ""
+  },
+  {
+    "name": "Axmad",
+    "phone": "121313",
+    "username": "213123123",
+    "password": "21312312",
+    "user_image": "dsadsakjdsajk",
+    "id": 10
+  }
+]
